@@ -93,7 +93,6 @@ PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.4-service \
     camera.msm8916 \
     libbson \
-    libshim_atomic \
     libc_util \
     libshims_camera \
     libshims_sensorlistener \
