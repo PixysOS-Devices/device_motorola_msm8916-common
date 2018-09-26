@@ -90,7 +90,7 @@ PRODUCT_PACKAGES += \
     libc_util \
     libshims_camera \
     Camera2 \
-    Snap
+    GoogleCamera
 
 # Camera properties
 PRODUCT_PROPERTY_OVERRIDES += \
